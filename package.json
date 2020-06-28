@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-boss-paranoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "javascriptosaur",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.1"
+  }
+}
